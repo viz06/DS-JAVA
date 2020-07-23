@@ -12,11 +12,10 @@
 ---
 ## 📚	Try My Hand In :
 
- ||||||
- |:-------:|:-------:|:--------------:|:------:|:-------:|
- |<h2>__C__</h2>|<h2>__C++__|<h2>__JAVA__|<h2>__PYTHON__|<h2>__basic C#__|
- |<h2>__HTML__|<h2>__JS__|<h2>__CSS__|<h2>__JQUERY__|<h2>__BS4__|
- |<h2>__ANGULAR__|<h2>__NODEJS__|<h2>__MONGODB__|<h2>__basic RUBY__|
+ |<h3>__C__</h3>|<h3>__C++__|<h3>__JAVA__|<h3>__PYTHON__|<h3>__basic C#__|
+ |:-------:|:-------:|:--------------:|:----------:|:-----------:|
+ |<h3>__HTML__|<h3>__JS__|<h3>__CSS__|<h3>__JQUERY__|<h3>__BS4__|
+ |<h3>__ANGULAR__|<h3>__NODEJS__|<h3>__MONGODB__|<h3>__basic RUBY__|
  |<h3>__DART__|<h3>__FLUTTER__|<h3>__ANDROID STUDIO__|__MYSQL__|
  
 
